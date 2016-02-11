@@ -1,0 +1,22 @@
+{
+  "name": "LiftLine",
+  "version": "1.0.0",
+  "description": "This is the starting point of the project to tell people how long LiftLines are",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfeilinger/Liftline.git"
+  },
+  "keywords": [
+    "Skiing"
+  ],
+  "author": "Mark Feilinger <mark@skipowder.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfeilinger/Liftline/issues"
+  },
+  "homepage": "https://github.com/mfeilinger/Liftline"
+}
