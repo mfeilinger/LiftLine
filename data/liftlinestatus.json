@@ -1,0 +1,6 @@
+{'liftname': 'Thunderhead Express', 'liftstatus':'Open','liftlinetime':10}
+{'liftname': 'Gondola', 'liftstatus':'Open','liftlinetime':30}
+{'liftname': 'Sundown Express', 'liftstatus':'Open','liftlinetime':20}
+{'liftname': 'Storm Peak Express', 'liftstatus':'Open','liftlinetime':5}
+{'liftname': 'Burgess Creek', 'liftstatus':'Open','liftlinetime':0}
+{'liftname': 'Pony Express', 'liftstatus':'Closed','liftlinetime':0}
